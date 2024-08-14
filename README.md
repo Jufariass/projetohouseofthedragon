@@ -1,4 +1,4 @@
-<h3 align="left">Projeto feito com o canal DevemDobro do evento "Do Zero ao Programador Contratado" onde apresenta um carrossel de imagens com informações sobre os dragões da série House of the Dragon. Foi usado tecnologias como HTML, CSS e JavaScript. </h3>
+<h4 align="left">Projeto feito com o canal DevemDobro do evento "Do Zero ao Programador Contratado" onde apresenta um carrossel de imagens com informações sobre os dragões da série House of the Dragon. Foi usado tecnologias como HTML, CSS e JavaScript. </h4>
 
 #
 
