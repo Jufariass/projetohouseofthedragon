@@ -1,5 +1,34 @@
-<h4 align="left">Projeto feito com o canal DevemDobro do evento "Do Zero ao Programador Contratado" onde apresenta um carrossel de imagens com informações sobre os dragões da série House of the Dragon. Foi usado tecnologias como HTML, CSS e JavaScript. </h4>
 
-#
+---
 
-<img align="center" alt="imagem"  src="https://cdn.discordapp.com/attachments/1272681613443993613/1273287886065631332/balerion.png?ex=66be1140&is=66bcbfc0&hm=f360ba32c638a23ee32b1d3f26b2c91798d358f18e110a7a7b2a6f6cf3a9fad5&">
+## 🐉 House of the Dragon
+📁 Repositório: [github.com/Jufariass/projetohouseofthedragon](https://github.com/Jufariass/projetohouseofthedragon)
+
+```md
+# House of the Dragon 🐉
+
+Projeto visual baseado na série House of the Dragon, focado em estilização e organização de conteúdo.
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML
+- CSS
+
+## 🚀 Como visualizar
+
+Você pode visualizar o projeto online [clicando aqui](https://jufariass.github.io/projetohouseofthedragon).
+
+Ou, se preferir:
+
+```bash
+# Clone este repositório
+git clone https://github.com/Jufariass/projetohouseofthedragon
+
+# Abra o arquivo index.html no navegador
+
+📌 Status
+✅ Finalizado
+
+🧠 O que aprendi
+Aprofundei meus conhecimentos em estilização com CSS e organização de conteúdo em páginas estáticas.
+
